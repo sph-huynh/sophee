@@ -1,0 +1,15 @@
+
+<div class="prev">
+    {{ if .Next }}
+    <a href="{{ .Next.URL }}" class="button small">←{{ .Next.Title }}</a>
+    {{ else }}
+    <a href="{{ .Site.BaseURL }}" class="button small">←HOME</a>
+    {{ end }}
+</div>
+<div class="next">
+    {{ if .Prev }}
+    <a href="{{ .Prev.URL }}" class="button small">{{ .Prev.Title }}→</a>
+    {{ else }}
+    <a href="{{ .Site.BaseURL }}" class="button small">HOME→</a>
+    {{ end }}
+</div>

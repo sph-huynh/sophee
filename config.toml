@@ -1,0 +1,25 @@
+# Site settings
+baseurl = "https://soph.ee"
+languageCode = "en-us"
+title = "SOPH EE"
+
+contentdir = "content"
+datadir = "data"
+layoutdir = "layouts"
+publishdir = "public"
+paginate = 10
+
+
+[params]
+    # Meta
+    title = "Sophee"
+    author = "Sophia Huynh"
+    description = "A website"
+    keywords = "Hugo, Hugo theme"
+
+    # Body background color
+    bodybgcolor = "#ffffff"
+
+    # Footer text
+    footertext = "Sophee"
+    

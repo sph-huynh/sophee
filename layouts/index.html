@@ -1,0 +1,37 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		{{ partial "head.html" . }}
+	</head>
+	<body>
+
+		<!-- Header -->
+			<header id="header">
+				<div class="inner">
+					{{ partial "header.html" . }}
+				</div>
+			</header>
+
+		<!-- Main -->
+			<div id="main">
+				<div class="homepage">
+					<div class="inner">
+					{{ partial "intro-video.html" . }}
+					</div>
+				</div>
+			</div>
+
+
+
+		<!-- Footer -->
+			<footer id="footer">
+				<div class="inner">
+						{{ partial "footer.html" . }}
+				</div>
+			</footer>
+
+		<!-- Scripts -->
+		{{ partial "scripts.html" . }}
+
+	</body>
+</html>
