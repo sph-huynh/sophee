@@ -1415,6 +1415,17 @@
 
 	}
 
+/* Youtube */
+
+	youtube > iframe, vimeo > iframe {
+		width: 100%;
+		height: 200px;
+	}
+
+	youtube > iframe:hover, vimeo > iframe {
+		height: 500px;
+	}
+
 /* Basic */
 
 	body {
