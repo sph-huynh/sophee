@@ -1,0 +1,18 @@
+<github>
+        {{ range $.Site.Data.github.project }}
+        <div class="content-github-container">
+                <div class="content-github-left">
+                    <a href="{{.link}}">
+                        <img src="{{ .Site.BaseURL }}/images/{{ .image }}.jpg"/ >
+                    </a>
+                </div>
+                <div class="content-github-right">
+                    <div class="title"><b><a href="{{ .githublink }}">{{.title}}</a></b></div>
+                    <div class="desc">{{.desc}}</div>
+                    <div class="livelink"><a href="{{ .livelink }}">{{.livelink}}</a></div> 
+                    <div class="stack"><div class="type">{{.type}}</div> | {{.stack}}</div>
+                    
+                </div>
+        </div>
+        {{ end }}
+</github>
