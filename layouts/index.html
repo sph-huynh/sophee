@@ -6,25 +6,19 @@
 	<body>
 
 		<!-- Header -->
-			<header id="header">
-				<div class="inner">
-					{{ partial "header.html" . }}
-				</div>
-			</header>
-
-		<!-- Main -->
-			<div class="homepage">
-					{{ partial "intro-video.html" . }}
-			</div>
-
-
-
-		<!-- Footer -->
-			<footer id="footer">
-				<div class="inner">
+		<div class="homepage">
+			<div class="homepage-left">
+				<header id="header">
+					<div class="inner">
+						{{ partial "header.html" . }}
 						{{ partial "footer.html" . }}
-				</div>
-			</footer>
+					</div>
+				</header>
+			</div>
+			<div class="homepage-right">
+					{{ partial "intro-video.html" . }}	
+			</div>
+		</div>
 
 		<!-- Scripts -->
 		{{ partial "scripts.html" . }}
