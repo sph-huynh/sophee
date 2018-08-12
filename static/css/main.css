@@ -94,32 +94,38 @@
 	}
 
 /* Timelines */
-	github .title {
+	github .title,
+	behance .title {
 		font-weight: 600;
 		font-size: 1.2em;
 		color: #1f1815 !important;
 		margin-bottom: 1.5em !important;
 	}
 
-	github .livelink, github .desc {
+	github .livelink, github .desc,
+	behance .livelink, behance .desc  {
 		font-size: 0.9em;
 	}
 
-	github .livelink {
+	github .livelink,
+	behance .livelink {
 		color: #344a8a !important;
 	}
 
-	github .livelink:hover {
+	github .livelink:hover,
+	behance .livelink:hover {
 		color: #5a4677;
 	}
 
-	github .stack {
+	github .stack,
+	behance .stack {
 		margin-top: 1em;
 		font-size: .7em;
 		display: -webkit-inline-box;
 	}
 
-	github .type {
+	github .type,
+	behance .type {
 		color: #5a4677;
 		padding-right: 10px;
 	}
