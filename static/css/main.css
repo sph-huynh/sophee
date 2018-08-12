@@ -2461,6 +2461,15 @@
 		overflow: hidden;
 	}
 
+	@media screen and (max-width: 726px) {
+		.homepage .homepage-right .intro-video {
+			height: 100%;
+		}
+
+		.homepage .homepage-right .intro-video > * {
+			width: auto;
+		}
+	}
 
 /* Poptrox */
 
