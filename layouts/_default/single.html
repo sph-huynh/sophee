@@ -9,7 +9,13 @@
 			<header id="header">
 				<div class="inner">
 					{{ partial "header.html" . }}
-				</div>
+        </div>
+        <!-- Footer -->
+        <footer id="footer">
+          <div class="inner">
+              {{ partial "footer.html" . }}
+          </div>
+        </footer>
 			</header>
             
           <!-- Main -->
@@ -19,13 +25,6 @@
                   {{.Content}}
               </div>
             </div>
-
-		<!-- Footer -->
-    <footer id="footer">
-      <div class="inner">
-          {{ partial "footer.html" . }}
-      </div>
-    </footer>
 
   <!-- Scripts -->
   {{ partial "scripts.html" . }}
