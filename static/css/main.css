@@ -94,6 +94,18 @@
 	}
 
 /* Timelines */
+	.contact-me-right {
+		font-weight: 400;
+		font-size: 1em;
+		margin-left: 50%;
+	}
+
+	@media screen and (max-width: 600px) {
+		.contact-me-right {
+			margin-left: 10%;
+		}
+	}
+
 	github .title,
 	behance .title {
 		font-weight: 600;
