@@ -258,6 +258,128 @@
 		object-fit: cover;
 	}
 
+/* Medium */
+
+.medium-story {
+	margin-top: 3%;
+	padding: 25px;
+	border: 0.1em solid #efefef80;
+	border-radius: 1%;
+	box-shadow: 1px 2px #e8e7e780;
+}
+
+.medium-story-writer > * {
+	vertical-align: top!important;
+}
+
+.medium-story-photo {
+	margin-right: 10px;
+	display: inline;
+}
+
+.medium-story-photo img {
+	width: 40px!important;
+}
+
+.medium-story-details {
+	display: inline-block;
+}
+
+.medium-story-author {
+	width: 100%;
+	font-size: 14px;
+	line-height: initial;
+}
+
+.medium-story-date {
+	font-size: 12px;
+}
+
+.medium-story-title {
+	font-size: 1.5em;
+}
+
+.medium-story-title a, .medium-story-author a {
+	color: #232323;
+	border-bottom: none;
+}
+
+.medium-story-cover-photo {
+	margin-top: 30px;
+}
+
+.medium-story-cover-photo img {
+	width: 100%;
+}
+
+.medium-story-blurb {
+	margin-top: 10px;
+	font-size: .9em;
+	line-height: initial;
+}
+
+/* Media */
+
+.media-story {
+	margin-top: 3%;
+	padding: 25px;
+	border: 0.1em solid #efefef80;
+	border-radius: 1%;
+	box-shadow: 1px 2px #e8e7e780;
+}
+
+.media-story-writer > * {
+	vertical-align: top!important;
+}
+
+.media-story-author {
+	width: 100%;
+	font-size: 20px;
+	line-height: initial;
+}
+
+.media-story-date {
+	font-size: 12px;
+}
+
+.media-story-title {
+	font-size: 1.5em;
+}
+
+.media-story-title a, .media-story-author a {
+	color: #232323;
+	border-bottom: none;
+}
+
+.media-story-cover-photo {
+	margin-top: 30px;
+}
+
+.media-story-cover-photo img {
+	width: 100%;
+	height: 200px;
+	object-fit: cover;
+}
+
+.media-story-blurb {
+	margin-top: 10px;
+	font-size: .9em;
+	line-height: initial;
+}
+
+.media-subtitle {
+	font-size: 1.2em;
+	font-weight: 600;
+	color: #4b4b4b;
+}
+
+/* Tite Shortcode */
+h3.title {
+	font-size: 1.2em;
+	font-weight: 600;
+	color: #4b4b4b;
+}
+
 
 /* Grid */
 
@@ -1852,6 +1974,38 @@
 
 /* Image */
 
+header-image img {
+	width: 100%;
+}
+
+ block-image {
+	 display: inline!important;
+	 vertical-align: top!important;
+ }
+
+ block-image img {
+	width: 35%!important;
+	margin-bottom: 20px;
+ }
+
+ block-text {
+	 display: inline-block!important;
+	 vertical-align: top!important;
+	 margin-left: 20px;
+	 width: 50%;
+ }
+
+ @media screen and (max-width: 700px) {
+	 block-image img {
+		 width: 100%!important;
+	 }
+
+	 block-text {
+		 width: 100%;
+		 margin-left: 0;
+	 }
+ }
+
 	.image {
 		border-radius: 0.35em;
 		border: 0;
@@ -2338,13 +2492,13 @@
 		color: rgba(255, 255, 255, 0.5);
 		height: 100%;
 		left: 0;
-		padding: 8em 4em;
+		padding: 6em 4em;
 		position: fixed;
 		text-align: right;
 		top: 0;
 		width: 35%;
 		overflow: hidden;
-	}
+	}  
 
 		#header > * {
 			-moz-flex-shrink: 0;
