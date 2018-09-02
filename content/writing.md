@@ -8,4 +8,4 @@ I was looking through my high school scores the other day and was surprised to f
 
 These days I do (very occasionally) write Medium posts:
 
-https://medium.com/@so.phia
+{{< medium >}}

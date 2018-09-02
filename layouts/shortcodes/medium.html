@@ -1,0 +1,33 @@
+<medium>
+    <div class="medium-stories">
+        <h3 class="title">
+            Latest stories
+        </h3>
+        {{ range $.Site.Data.medium.story }}
+        <div class="medium-story">
+            <div class="medium-story-writer">
+                    <div class="medium-story-photo">
+                            <a href="https://medium.com/@so.phia" class="image avatar"><img src="{{ .Site.BaseURL }}/images/avatar.jpg" alt="" /></a>
+                        </div>
+                    <div class="medium-story-details">
+                        <div class="medium-story-author">
+                            Sophia Huynh <a href="{{.authorlink}}">{{.author}}</a>
+                        </div>
+                        <div class="medium-story-date">
+                            {{.date}}
+                        </div>
+                    </div>
+            </div>
+            <div class="medium-story-cover-photo">
+                <img src="{{.img}}"/>
+            </div>
+            <div class="medium-story-title">
+                <a href="{{.url}}">{{.title}}</a>
+            </div>
+            <div class="medium-story-blurb">
+                {{.blurb}}
+            </div>
+        </div>
+        {{ end }}
+    </div>
+</medium>
