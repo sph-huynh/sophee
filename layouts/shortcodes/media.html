@@ -1,0 +1,25 @@
+<media>
+    <div class="media-stories">
+        {{ range $.Site.Data.media.story }}
+        <div class="media-story">
+            <div class="media-story-writer">
+                <div class="media-story-author">
+                    <a href="{{.authorlink}}">{{.author}}</a>
+                </div>
+                <div class="media-story-date">
+                    {{.date}}
+                </div>
+            </div>
+            <div class="media-story-cover-photo">
+                <img src="{{.img}}"/>
+            </div>
+            <div class="media-story-title">
+                <a href="{{.url}}">{{.title}}</a>
+            </div>
+            <div class="media-story-blurb">
+                {{.blurb}}
+            </div>
+        </div>
+        {{ end }}
+    </div>
+</media>
