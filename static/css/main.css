@@ -153,14 +153,22 @@
 	.content-timeline-left {
 		font-size: .7em;
 		display: inline-grid;
+		line-height: initial;
 	}
 
 	video-timeline .caption {
-		padding: 0 0 .5em 0;
+		padding: 0 0 1em 0;
+		line-height: initial;
 	}
 
 	.content-timeline-left, .content-github-right {
 		width: 40%;
+	}
+
+	.content-timeline-left img {
+		width: 100%;
+		height: 200px;
+		object-fit: cover;
 	}
 
 	.content-github-right {

@@ -2,14 +2,10 @@
     {{ range $.Site.Data.about.about }}
     <div class="content-timeline-container">
             <div class="content-timeline-left">
-                    <video loop muted autoplay poster="{{ .Site.BaseURL }}/images/{{ .video1 }}.jpg" frameborder="0">
-                        <source src="{{ .Site.BaseURL }}/videos/{{.video1}}.mp4" type="video/mp4">
-                    </video>
+                    <img src="{{.video1}}"/>
                     <div class="caption">{{.caption1}}</div>  
-                    <video loop muted autoplay poster="{{ .Site.BaseURL }}/images/{{ .video2 }}.jpg" frameborder="0">
-                        <source src="{{ .Site.BaseURL }}/videos/{{ .video2 }}.mp4" type="video/mp4">
-                    </video>
-                    <p>{{.caption2}}</p>   
+                    <img src="{{.video2}}"/>
+                    <div class="caption">{{.caption2}}</div>    
             </div>
             <div class="content-timeline-right">
                 <p><b>{{.title}}</b></p>
