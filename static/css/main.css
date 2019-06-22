@@ -3159,13 +3159,13 @@ header-image img {
 
 	}
 
-	@media screen and (max-width: 530px) and (max-height: 775px){
+	@media screen and (max-width: 530px) and (max-height: 812px){
 		.homepage {
 			margin-top: -50%;
 		}
 
 		.homepage .homepage-left .menu .column {
-			width: 60%;
+			width: 100%;
 		}
 	}
 
