@@ -83,7 +83,7 @@
 		margin-left: 0;
 		margin-right: 0;
 		margin-bottom: 0;
-		width: 60%;
+		width: 100%;
 		overflow: hidden;
 		object-fit: cover;
 		z-index: 50;
@@ -2617,7 +2617,14 @@ header-image img {
 	}
 
 	.homepage {
-		margin-top: 20%;
+		/* margin-top: 20%; */
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		width: 50%;
+		height: 50%;
+		margin-top: -12%; /* Half the height */
+		margin-left: -25%;
 	}
 
 	.homepage .homepage-left {
@@ -2636,7 +2643,7 @@ header-image img {
 	.homepage .homepage-left .inner, 
 	.homepage .homepage-left .menu, 
 	.homepage .homepage-left .footer {
-		width: 65%;
+		width: 100%;
 		float: right;
 	}
 
@@ -2651,7 +2658,22 @@ header-image img {
 	}
 
 	.homepage .homepage-left .menu .column {
-		margin: 0;
+		margin: auto;
+		float: right;
+		width: 50%;
+		display: block;
+	}
+
+	.homepage .homepage-left .menu .column-left {
+		width: 49%;
+		text-align: right;
+		display: inline-block;
+	}
+
+	.homepage .homepage-left .menu .column-right {
+		width: 49%;
+		text-align: left;
+		display: inline-block;
 	}
 
 	.homepage .homepage-left .footer {
@@ -3012,7 +3034,7 @@ header-image img {
 
 /* Medium */
 
-	@media screen and (max-width: 1118px), screen and (max-height: 920px){
+	@media screen and (max-width: 1118px) and (max-height: 920px){
 
 		/* Basic */
 
@@ -3049,13 +3071,19 @@ header-image img {
 						display: inline;
 					}
 
+			.homepage {
+				margin-top: -25%;
+			}
+
 			.homepage .homepage-right .intro-video,
 			.homepage .homepage-left {
 				width: 90%;
 				float: none;
 			}
 
-			.homepage .homepage-left > * > .image.avatar img {
+			.homepage .homepage-left > * > .image.avatar img,
+			.homepage .homepage-left .menu,
+			.homepage .homepage-left .inner {
 				float: none;
 				width: 100%;
 			}
@@ -3068,10 +3096,23 @@ header-image img {
 			.homepage .homepage-left .inner, 
 			.homepage .homepage-left .menu, 
 			.homepage .homepage-left .footer {
-				width: 100%;
-				float: none;
 				text-align: center;
 			}
+
+
+			.homepage .homepage-left .menu .column {
+				margin: 1em auto;
+				float: none;
+			}
+
+			/* .homepage .homepage-left .menu .column-left {
+ 
+			}
+
+			.homepage .homepage-left .menu .column-right {
+ 
+			} */
+
 		
 		/* Main */
 
@@ -3118,11 +3159,16 @@ header-image img {
 
 	}
 
-	@media screen and (max-height: 890px) {
+	@media screen and (max-width: 530px) and (max-height: 775px){
 		.homepage {
-			margin-top: 5%;
+			margin-top: -50%;
+		}
+
+		.homepage .homepage-left .menu .column {
+			width: 60%;
 		}
 	}
+
 
 /* Small */
 
