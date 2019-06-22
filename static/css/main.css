@@ -3102,6 +3102,7 @@ header-image img {
 
 			.homepage .homepage-left .menu .column {
 				margin: 1em auto;
+				width: 100%;
 				float: none;
 			}
 
