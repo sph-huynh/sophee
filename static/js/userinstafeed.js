@@ -10,6 +10,7 @@ $(document).ready(function() {
         sortBy: 'most-recent',
         limit: 18,
         resolution: 'thumbnail',
+        template: '<a href="{{link}}"><img src="{{image}}" /></a>',
         after: function() {
             // disable button if no more results to load
             if (!this.hasNext()) {
