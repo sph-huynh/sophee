@@ -9,7 +9,7 @@ $(document).ready(function() {
         accessToken: '240834558.1677ed0.ebc01b1b568d47d3957a810fff1cb157',
         sortBy: 'most-recent',
         limit: 18,
-        resolution: 'thumbnail',
+        resolution: 'standard_resolution',
         template: '<a href="{{link}}"><img src="{{image}}" /></a>',
         after: function() {
             // disable button if no more results to load

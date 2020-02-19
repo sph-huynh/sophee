@@ -1,7 +1,14 @@
 ---
-title: "videos"
-date: 2018-04-01T16:00:29+11:00
-draft: false
+date: 2018-04-18T16:00:29+11:00
+lastmod: 2018-05-24T02:10:00+06:00
+title: Videos
+authors: ["sophia"]
+categories:
+  - media
+tags:
+  - videos
+slug: videos
+toc: true
 ---
 
 I found an interest in video around 2015. I think it's a great medium (although it will never top my favourite, photography), as you get to really control how your viewer sees your art - through sound, visuals, text, silence, spacing, and so much more.

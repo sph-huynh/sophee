@@ -19,4 +19,4 @@ Install Hugo (i.e. `brew install hugo`)
 * [Hugo](https://gohugo.io/)
 
 ## Acknowledgments
-Bless [HTML5up](https://html5up.net/strata)
+Bless the Hugo theme [Minimo](https://minimo.netlify.com/)
