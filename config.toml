@@ -28,7 +28,7 @@ title404 = "Nothing's here!"
 [params.assets]
 favicon = "favicon.ico"
 customCSS = ["css/custom.css"]
-customJS = ["js/custom.js"]
+customJS = ["js/instafeed.js", "js/userinstafeed.js", "js/linkedin.js"]
 gopher = "" # used in 404 template ( Generator: https://gopherize.me )
 
 [params.copyright]

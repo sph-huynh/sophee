@@ -6,7 +6,8 @@ authors: ["sophia"]
 categories:
   - press
 tags:
-  - press, feature
+  - press
+  - feature
 cover:
     image: https://www.monash.edu/__data/assets/image/0011/962183/diversity-inclusion.png
     style: half
@@ -18,4 +19,4 @@ slug: 170601/monash-feature
 Monash University featured a story about me founding the diversity in IT focused faculty initiative 'diversIT'.
 'Sophia goes on to share that it isn’t just a matter of addressing one challenge. Whilst there’s an emphasis on women in IT, the group want to extend their message to address other diversity concerns in the technical landscape in Australia.'
 
-{{< linkedin link="https://www.monash.edu/it/about-us/news-and-events/latest/articles/2017/recognising-and-celebrating-diversit-supporting-diversity-and-fostering-inclusion-at-monash" >}}
+{{< button link="https://www.monash.edu/it/about-us/news-and-events/latest/articles/2017/recognising-and-celebrating-diversit-supporting-diversity-and-fostering-inclusion-at-monash" capt="Click to read more on the Monash website" >}}

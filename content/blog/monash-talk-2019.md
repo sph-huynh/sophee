@@ -6,8 +6,12 @@ authors: ["sophia"]
 categories:
   - talks
 tags:
-  - press, talks, mentoring
+  - press
+  - talks
+  - mentoring
 slug: 191001/monash-insight
+draft: true
+
 ---
 
 {{< linkedin link="https://www.linkedin.com/embed/feed/update/urn:li:share:6574840656898985984" >}}

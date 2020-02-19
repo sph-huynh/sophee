@@ -40,4 +40,4 @@ scope & Constraints
 Process and Approach		
 
 Restructured the organising committee to focus on long term planning, removing the existing casual volunteering structure, and implemented official positions that centre around activities and workshops, leading to greater attendance at events, and more frequent events.
-Restructured and rebranded the Photography services portfolio to provide a premium service, and successfully re- established the services’ standing on campus.		
+Restructured and rebranded the Photography services portfolio to provide a premium service, and successfully re- established the services’ standing on campus.

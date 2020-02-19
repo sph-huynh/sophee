@@ -6,13 +6,16 @@ authors: ["sophia"]
 categories:
   - experiences
 tags:
-  - experiences, travel, press
+  - experiences
+  - travel
+  - press
 slug: 180401/morning-wide
 cover: 
     image: https://media.giphy.com/media/7A4moeqCc8druF2pLA/giphy.gif
     caption: Room mate and myself react to our segment
     style: full
 toc: true
+draft: true
 ---
 
 
