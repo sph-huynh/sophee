@@ -1,0 +1,20 @@
+<div class="project-row">
+    {{ range $.Site.Data.casestudies.project }}
+    <div class="project-grid">
+        <article class="card">        
+            <img src="{{.img1}}" class="card-img-top" alt="{{.title}}">
+            <div class="card-body px-0">
+                <a href="{{ .link }}" class="text-primary">{{.keytheme}}</a>
+                <a href="{{ .link }}" class="h5 card">{{.title}}</a>
+                <div class="card post-meta">
+                    <span>{{.caption}}</span>
+                    <span class="border-bottom border-primary px-2 mx-1"></span>
+                    <span>{{.date}}</span>
+                </div>
+                <p class="card-text">{{.blurb}}</p>
+                <a href="{{ .link }}" class="btn btn-outline-primary">read more</a>
+            </div>
+        </article>
+    </div>
+    {{ end }}
+</div>

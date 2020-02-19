@@ -1,0 +1,134 @@
+.card {
+    border: 0;
+    border-radius: 0;
+    position: relative;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+}
+
+.card-header, .card-footer, .card-img, .card-img-top {
+    border: 0;
+    border-radius: 0;
+}
+
+.card-body {
+    flex: 1 1 auto;
+    padding: .5rem;
+    font-size: 15px;
+    line-height: 1.7;
+}
+
+.card-text {
+    font-weight: 400;
+    color: #666;
+    font-family: raleway,sans-serif;
+    border-bottom: none!important;
+}
+
+.text-primary {
+    cursor: pointer;
+    transition: .2s ease;
+    color: #A36437!important;
+    text-decoration: none;
+}
+
+.card.post-meta {
+    margin-bottom: 1rem!important;
+    color: #444;
+    font-weight: 500;
+}
+
+.border-primary {
+    color: #444;
+    font-weight: 500;
+    padding-left: .5rem!important;
+    border-color: #A36437!important;
+    padding-right: .5rem!important;
+    margin-left: .25rem!important;
+    margin-right: .25rem!important;
+    border-bottom: 2px solid #dee2e6!important;
+}
+
+.h5.card {
+    color: #222;
+    font-size: 18px;    
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.2;
+    margin-bottom: 1rem!important;
+    margin-top: 1rem!important;
+
+}
+
+.btn {
+    font-size: 14px;
+    font-weight: 500;
+    font-family: raleway,sans-serif;
+    text-transform: capitalize;
+    padding: 10px 15px;
+    border-radius: 0;
+    border: 1px solid!important; 
+    position: relative;
+    z-index: 1;
+    transition: .2s ease;
+}
+
+.row > #instafeed > * {
+    padding: 0 0 0 1em;
+}
+
+.row > #instafeed > * > img {
+    width: 30%;
+}
+
+.btn-outline-primary {
+    background: 0 0;
+    color: #222;
+    border-color: #A36437!important;
+}
+
+.card-img-top {
+    width: 100%;
+    border-top-left-radius: calc(.25rem - 1px);
+    border-top-right-radius: calc(.25rem - 1px);
+}
+
+img.card-img-top {
+    vertical-align: top!important;
+    border: 0;
+}
+
+img {
+    vertical-align: middle;
+    border: 0;
+}
+
+.project-row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    flex-flow: flex-start;
+    align-items: flex-start;
+    align-content: flex-start;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.project-grid {
+    margin-bottom: 1.5rem!important;
+    flex: 0 0 48%;
+    max-width: 50%;
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+
