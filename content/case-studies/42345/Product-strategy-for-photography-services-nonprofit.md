@@ -13,7 +13,7 @@ cover:
     caption: the caption of the image
     style: half
 toc: false		
----	
+---
 		
 ### Overview		
 I served as the President of the Monash Photography Club in 2015, and spent my time focusing on how I could improve our functions and improve member turnout.		
