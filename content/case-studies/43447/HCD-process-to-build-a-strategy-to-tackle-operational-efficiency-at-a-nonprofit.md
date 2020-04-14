@@ -31,6 +31,8 @@ The brief provided was to explore:
 * Informational and decision making flow
 * Leveraging resources
 
+This case study uses a Design Thinking approach to building a strategy around improving internal proceses at a nonprofit.
+
 #### Constraints
 The project was run between December and February, meaning I had to work around being unable to access a number of team members during the Christmas and New Year break.
 

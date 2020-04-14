@@ -75,6 +75,8 @@ I also mapped out the skills and roles in each team to get a better idea of how 
 The jobs/volunteering portal currently looks like this
 {{< images src="blog-images/43690-recruitment/7. Current job page.png" >}}
 
+Generally you could see that the volunteering portal was relatively uninspiring, there was a lot of duplication, and manual processes.
+
 
 ### Survey
 
