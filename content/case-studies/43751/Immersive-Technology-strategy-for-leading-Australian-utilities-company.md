@@ -16,6 +16,7 @@ cover:
     caption: caption
     style: full
 toc: true
+draft: true
 ---
 
 I led the technology track of a technology strategy engagement with a utilities client - allowing the client to better understand what immersive technologies (i.e. AR, VR, MR) they could use to better improve the training and compliance of their line workers.
