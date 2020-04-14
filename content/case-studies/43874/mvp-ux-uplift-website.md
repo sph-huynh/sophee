@@ -98,15 +98,15 @@ I worked with a colleague who specialised in copy and marketing to help refine t
 
 ### Deliver
 Here are the final mockups
-{{< images src="blog-images/43874-mvp/1-Homepage.png" >}}
-{{< images src="blog-images/43874-mvp/2-About us.png" >}}
-{{< images src="blog-images/43874-mvp/3-Networks.png" >}}
-{{< images src="blog-images/43874-mvp/4-Initiatives.png" >}}
-{{< images src="blog-images/43874-mvp/5-Our Stories.png" >}}
-{{< images src="blog-images/43874-mvp/6-Volunteer.png" >}}
-{{< images src="blog-images/43874-mvp/7-Join.png" >}}
-{{< images src="blog-images/43874-mvp/8-FAQ.png" >}}
-{{< images src="blog-images/43874-mvp/9-Contact.png" >}}
+{{< images class="pop-up" src="blog-images/43874-mvp/1-Homepage.png" >}}
+{{< images class="pop-up" src="blog-images/43874-mvp/2-About us.png" >}}
+{{< images class="pop-up" src="blog-images/43874-mvp/3-Networks.png" >}}
+{{< images class="pop-up" src="blog-images/43874-mvp/4-Initiatives.png" >}}
+{{< images class="pop-up" src="blog-images/43874-mvp/5-Our Stories.png" >}}
+{{< images class="pop-up" src="blog-images/43874-mvp/6-Volunteer.png" >}}
+{{< images class="pop-up" src="blog-images/43874-mvp/7-Join.png" >}}
+{{< images class="pop-up" src="blog-images/43874-mvp/8-FAQ.png" >}}
+{{< images class="pop-up" src="blog-images/43874-mvp/9-Contact.png" >}}
 
 ## Outcome
 

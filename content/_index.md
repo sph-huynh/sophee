@@ -6,4 +6,5 @@ menu:
   - sidebar
 weight: -270
 ---
+
 {{< case-study >}}
