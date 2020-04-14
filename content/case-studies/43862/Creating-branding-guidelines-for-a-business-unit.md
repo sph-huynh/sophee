@@ -78,7 +78,7 @@ This part was just documenting things like ideal type of clients and project wor
 Mood boards of brands people admired
 A mood board template was sent to all team members to construct a visual representation of brands they look up to. The idea behind this exercise was to better understand what stands out in brands to the team members, but also to see what was most important to them. 
 
-{{< images src="blog-images/43862-branding/mood-board-screenshot.png >}}
+{{< images src="blog-images/43862-branding/mood-board-screenshot.png" >}}
 
 **How team members felt about the team**
 The visual mood boards were supplemented by a questionnaire to dive deeper into the background of the board, and give more opportunities to explain what they wanted to see more of. 
@@ -94,9 +94,9 @@ The questions were:
 **Synthesise findings**
 I put together all the inputs from the team to define the overarching themes of our brand. This included both the visual/emotional elements from the mood boards, and the brand personality from the questionnaire.
 
-{{< images src="blog-images/43862-branding/mood-board-synthesis.png >}}
+{{< images src="blog-images/43862-branding/mood-board-synthesis.png" >}}
 
-{{< images src="blog-images/43862-branding/trello-board.png >}}
+{{< images src="blog-images/43862-branding/trello-board.png" >}}
 
 
 **Better understanding our constraints**
