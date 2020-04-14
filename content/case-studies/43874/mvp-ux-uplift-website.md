@@ -56,7 +56,7 @@ Other findings around **usability** were:
 - The About page was lengthy, and it took quite a lot of scrolling to read all the important information. Most interviewees were still unable to recall what the core purpose of the organisation was after immediately reading the About page.
 - There was too much content immediately available. Combined with jargon, it was difficult for interviewees to find the information they were looking for. There were 27 menu items on the top menu bar alone. 4 more could be found in the footer. 7 of these menu items were links directing the user to completely different websites.
 
-{{< images src="blog-images/43874-mvp/27-menus.png>}}
+{{< images src="blog-images/43874-mvp/27-menus.png" >}}
 
 
 Other findings around **usage** were:
@@ -98,15 +98,15 @@ I worked with a colleague who specialised in copy and marketing to help refine t
 
 ### Deliver
 Here are the final mockups
-{{< images src="blog-images/43874-mvp/1-Homepage.png>}}
-{{< images src="blog-images/43874-mvp/2-About us.png>}}
-{{< images src="blog-images/43874-mvp/3-Networks.png>}}
-{{< images src="blog-images/43874-mvp/4-Initiatives.png>}}
-{{< images src="blog-images/43874-mvp/5-Our Stories.png>}}
-{{< images src="blog-images/43874-mvp/6-Volunteer.png>}}
-{{< images src="blog-images/43874-mvp/7-Join.png>}}
-{{< images src="blog-images/43874-mvp/8-FAQ.png>}}
-{{< images src="blog-images/43874-mvp/9-Contact.png>}}
+{{< images src="blog-images/43874-mvp/1-Homepage.png" >}}
+{{< images src="blog-images/43874-mvp/2-About us.png" >}}
+{{< images src="blog-images/43874-mvp/3-Networks.png" >}}
+{{< images src="blog-images/43874-mvp/4-Initiatives.png" >}}
+{{< images src="blog-images/43874-mvp/5-Our Stories.png" >}}
+{{< images src="blog-images/43874-mvp/6-Volunteer.png" >}}
+{{< images src="blog-images/43874-mvp/7-Join.png" >}}
+{{< images src="blog-images/43874-mvp/8-FAQ.png" >}}
+{{< images src="blog-images/43874-mvp/9-Contact.png" >}}
 
 ## Outcome
 
