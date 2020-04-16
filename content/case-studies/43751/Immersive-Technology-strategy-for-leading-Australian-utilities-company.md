@@ -12,8 +12,8 @@ tags:
   - Extended Reality
 slug: Immersive-Technology-strategy-for-leading-Australian-utilities-company
 cover: 
-    image: "https://themes.gohugo.io/theme/liva-hugo/images/post/post-1.jpg"
-    caption: caption
+    image: /images/blog-images/cover.png
+    caption: 
     style: full
 toc: true
 draft: true

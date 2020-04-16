@@ -13,8 +13,8 @@ tags:
   - Customer Experience
 slug: Transition-and-comms-for-change-management-process-at-nonprofit
 cover: 
-    image: "https://themes.gohugo.io/theme/liva-hugo/images/post/post-1.jpg"
-    caption: caption
+    image: /images/blog-images/cover.png
+    caption: 
     style: full
 toc: true
 ---

@@ -11,7 +11,7 @@ tags:
 - Design Process
 slug: 43862/Creating-branding-guidelines-for-a-business-unit
 cover:
-    image: /images/blog-images/43862-branding/two-women-having-a-meeting-Christina-Morillo.jpg
+    image: /images/blog-images/cover.png
     caption: 
     style: half
 toc: true

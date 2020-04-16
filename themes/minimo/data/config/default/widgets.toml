@@ -12,6 +12,11 @@ title = "Other case studies"
 length = 2
 excludeTypes = ["page"]
 
+[all_posts]
+title = "Case Studies"
+length = 2
+excludeTypes = ["blog", "page"]
+
 [search]
 title = "Search"
 

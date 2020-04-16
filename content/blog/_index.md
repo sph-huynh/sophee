@@ -1,6 +1,6 @@
 ---
-title: See my work!
-linkTitle: Writing & Projects
+title: See my writing
+linkTitle: Writing
 menu:
   main:
   sidebar:

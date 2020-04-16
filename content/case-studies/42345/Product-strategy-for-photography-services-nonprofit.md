@@ -9,8 +9,8 @@ tags:
     - Project Management
 slug: Product-strategy-for-photography-services-nonprofit
 cover:
-    image: diversit-award.jpg
-    caption: the caption of the image
+    image: /images/blog-images/cover.png
+    caption: 
     style: half
 toc: false		
 ---
