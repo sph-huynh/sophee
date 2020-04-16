@@ -4,11 +4,11 @@ lastmod: 2019-11-24T02:10:00+06:00
 title: Monash Insight 2019 Talk
 authors: ["sophia"]
 categories:
-  - talks
+  - Talks
 tags:
-  - press
-  - talks
-  - mentoring
+  - Press
+  - Talks
+  - Mentoring
 slug: 191001/monash-insight
 draft: true
 

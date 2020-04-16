@@ -4,7 +4,7 @@ lastmod: 2019-08-13T00:00:00+11:00
 title: Experience evaluation, uplift and optimisation of a recruitment process
 authors: ["sophia"]
 categories:
-- case-studies
+- Case Studies
 tags:
 - Process Automation
 - Experience Evaluation

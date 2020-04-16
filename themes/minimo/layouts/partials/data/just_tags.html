@@ -1,0 +1,6 @@
+
+<p>
+    {{ range (.GetTerms "tags") }}
+        <a class="tag-box" href="{{ .Permalink }}">{{ .LinkTitle }} </a>
+   {{ end }}
+</p>

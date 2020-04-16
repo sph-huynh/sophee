@@ -4,7 +4,7 @@ lastmod: 2020-02-01T00:00:00+11:00
 title: Creating branding guidelines for a business unit
 authors: ["sophia"]
 categories:
-- case-studies
+- Case Studies
 tags:
 - Branding
 - Change Management

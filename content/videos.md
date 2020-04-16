@@ -4,9 +4,9 @@ lastmod: 2018-05-24T02:10:00+06:00
 title: Videos
 authors: ["sophia"]
 categories:
-  - media
+  - Media
 tags:
-  - videos
+  - Videos
 slug: videos
 toc: true
 ---

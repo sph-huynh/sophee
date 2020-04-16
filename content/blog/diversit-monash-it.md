@@ -4,10 +4,10 @@ lastmod: 2017-06-24T02:10:00+06:00
 title: Monash diversIT feature
 authors: ["sophia"]
 categories:
-  - press
+  - Press
 tags:
-  - press
-  - feature
+  - Press
+  - Feature
 cover:
     image: https://www.monash.edu/__data/assets/image/0011/962183/diversity-inclusion.png
     style: half

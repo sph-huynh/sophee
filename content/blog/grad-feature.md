@@ -4,9 +4,9 @@ lastmod: 2018-05-24T02:10:00+06:00
 title: GradAustralia feature
 authors: ["sophia"]
 categories:
-  - press
+  - Press
 tags:
-  - press
+  - Press
 slug: 180501/gradaustralia
 ---
 

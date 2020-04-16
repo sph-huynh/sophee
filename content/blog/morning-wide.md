@@ -4,11 +4,11 @@ lastmod: 2018-05-24T02:10:00+06:00
 title: When in a foreign country, go on a Morning show
 authors: ["sophia"]
 categories:
-  - experiences
+  - Experiences
 tags:
-  - experiences
-  - travel
-  - press
+  - Experiences
+  - Travel
+  - Press
 slug: 180401/morning-wide
 cover: 
     image: https://media.giphy.com/media/7A4moeqCc8druF2pLA/giphy.gif

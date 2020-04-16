@@ -4,7 +4,7 @@ lastmod: 2015-12-07T00:00:00+11:00
 title: Product strategy for photography services nonprofit
 authors: ["sophia"]	
 categories:
-    - case-studies
+    - Case Studies
 tags:	
     - Project Management
 slug: Product-strategy-for-photography-services-nonprofit

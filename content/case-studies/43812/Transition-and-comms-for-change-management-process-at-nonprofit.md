@@ -4,13 +4,13 @@ lastmod: 2018-05-24T02:10:00+06:00
 title: Facilitate a department split in a nonprofit
 authors: ["sophia"]
 categories:
-  - case study
+- Case Studies
 tags:
-  - strategy
-  - change management
-  - facilitation
-  - negotiation
-  - customer experience
+  - Strategy
+  - Change Management
+  - Facilitation
+  - Negotiation
+  - Customer Experience
 slug: Transition-and-comms-for-change-management-process-at-nonprofit
 cover: 
     image: "https://themes.gohugo.io/theme/liva-hugo/images/post/post-1.jpg"

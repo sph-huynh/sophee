@@ -4,14 +4,14 @@ lastmod: 2020-02-13T00:00:00+11:00
 title: MVP UX uplift for website
 authors: ["sophia"]
 categories:
-- case-studies
+- Case Studies
 tags:
 - User Experience
 - User Personas
 - User Interviews
 - UX Analytics
 - Website Design
-- Agile Sprints
+- Design Sprints
 slug: 43874/mvp-ux-uplift-website
 cover:
     image: 

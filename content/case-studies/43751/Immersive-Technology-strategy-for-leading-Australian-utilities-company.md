@@ -4,12 +4,12 @@ lastmod: 2018-12-13T00:00:00+11:00
 title: Immersive Learning Tech Strategy for utilities company
 authors: ["sophia"]
 categories:
-  - case study
+- Case Studies
 tags:
-  - digital strategy
-  - ar
-  - vr
-  - extended reality
+  - Digital Strategy
+  - AR
+  - VR
+  - Extended Reality
 slug: Immersive-Technology-strategy-for-leading-Australian-utilities-company
 cover: 
     image: "https://themes.gohugo.io/theme/liva-hugo/images/post/post-1.jpg"

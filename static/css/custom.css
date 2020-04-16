@@ -134,3 +134,14 @@ img {
 .site-desc {
     font-style: normal!important;
 }
+
+.tag-box {
+    color: #444;
+    font-weight: 300;
+    font-size: .7rem;
+    padding: .25rem!important;
+    margin-left: .25rem!important;
+    margin-right: .25rem!important;
+    border: 1.1px solid rgba(240, 145, 101, 0.719);
+    border-radius: 5px;
+}

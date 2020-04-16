@@ -4,9 +4,9 @@ lastmod: 2018-05-24T02:10:00+06:00
 title: Graphic Design
 authors: ["sophia"]
 categories:
-  - media
+  - Media
 tags:
-  - graphic design
+  - Graphic Design
 slug: /graphic-design
 toc: true
 ---
