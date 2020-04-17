@@ -4,7 +4,7 @@ lastmod: 2018-05-24T02:10:00+06:00
 title: Photography
 authors: ["sophia"]
 categories:
-  - Media
+  - Creative Media
 tags:
   - Photography
 slug: /photography

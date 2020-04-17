@@ -1,4 +1,4 @@
-$(document).ready(function() {
+(function() {
 
 
     var loadButton = document.getElementById('load-more');

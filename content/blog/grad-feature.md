@@ -10,4 +10,4 @@ tags:
 slug: 180501/gradaustralia
 ---
 
-{{< linkedin link="https://www.linkedin.com/embed/feed/update/urn:li:share:6437202319074557952" >}}
+{{< linkedin link="https://linkedin.com/embed/feed/update/urn:li:share:6437202319074557952" >}}

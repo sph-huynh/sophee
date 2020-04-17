@@ -1,0 +1,72 @@
+<script type="text/javascript" src="{{ .Site.BaseURL }}/js/light-box.js"></script>
+<light-box>
+    <!-- Images used to open the lightbox -->
+<div class="lb row">
+    <div class="lb column">
+      <img src="{{ .Site.BaseURL }}/images/{{ .Get "image-url1" }}" onclick="openModal();currentSlide(1)" class="lb hover-shadow">
+    </div>
+    <div class="lb column">
+      <img src="{{ .Site.BaseURL }}/images/{{ .Get "image-url2" }}" onclick="openModal();currentSlide(2)" class="lb hover-shadow">
+    </div>
+    <div class="lb column">
+      <img src="{{ .Site.BaseURL }}/images/{{ .Get "image-url3" }}" onclick="openModal();currentSlide(3)" class="lb hover-shadow">
+    </div>
+    <div class="lb column">
+      <img src="{{ .Site.BaseURL }}/images/{{ .Get "image-url4" }}" onclick="openModal();currentSlide(4)" class="lb hover-shadow">
+    </div>
+  </div>
+  
+  <!-- The Modal/Lightbox -->
+  <div id="myModal" class="lb modal">
+    <span class="lb close cursor" onclick="closeModal()">&times;</span>
+    <div class="lb modal-content">
+  
+      <div class="lb mySlides">
+        <div class="lb numbertext">1 / 4</div>
+        <img src="{{ .Site.BaseURL }}/images/{{ .Get "image-url1" }}" style="width:100%">
+      </div>
+  
+      <div class="lb mySlides">
+        <div class="lb numbertext">2 / 4</div>
+        <img src="{{ .Site.BaseURL }}/images/{{ .Get "image-url2" }}" style="width:100%">
+      </div>
+  
+      <div class="lb mySlides">
+        <div class="lb numbertext">3 / 4</div>
+        <img src="{{ .Site.BaseURL }}/images/{{ .Get "image-url3" }}" style="width:100%">
+      </div>
+  
+      <div class="lb mySlides">
+        <div class="lb numbertext">4 / 4</div>
+        <img src="{{ .Site.BaseURL }}/images/{{ .Get "image-url4" }}" style="width:100%">
+      </div>
+  
+      <!-- Next/previous controls -->
+      <a class="lb prev" onclick="plusSlides(-1)">&#10094;</a>
+      <a class="lb next" onclick="plusSlides(1)">&#10095;</a>
+  
+      <!-- Caption text -->
+      <div class="lb caption-container">
+        <p id="caption"></p>
+      </div>
+  
+      <!-- Thumbnail image controls -->
+      <div class="lb column">
+        <img class="lb demo" src="{{ .Site.BaseURL }}/images/{{ .Get "image-url1" }}" onclick="currentSlide(1)">
+      </div>
+  
+      <div class="lb column">
+        <img class="lb demo" src="{{ .Site.BaseURL }}/images/{{ .Get "image-url2" }}" onclick="currentSlide(2)">
+      </div>
+  
+      <div class="lb column">
+        <img class="lb demo" src="{{ .Site.BaseURL }}/images/{{ .Get "image-url3" }}" onclick="currentSlide(3)">
+      </div>
+  
+      <div class="lb column">
+        <img class="lb demo" src="{{ .Site.BaseURL }}/images/{{ .Get "image-url4" }}" onclick="currentSlide(4)">
+      </div>
+
+    </div>
+  </div>
+</light-box>

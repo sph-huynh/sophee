@@ -98,15 +98,8 @@ I worked with a colleague who specialised in copy and marketing to help refine t
 
 ### Deliver
 Here are the final mockups
-{{< images class="pop-up" src="blog-images/43874-mvp/1-Homepage.png" >}}
-{{< images class="pop-up" src="blog-images/43874-mvp/2-About us.png" >}}
-{{< images class="pop-up" src="blog-images/43874-mvp/3-Networks.png" >}}
-{{< images class="pop-up" src="blog-images/43874-mvp/4-Initiatives.png" >}}
-{{< images class="pop-up" src="blog-images/43874-mvp/5-Our Stories.png" >}}
-{{< images class="pop-up" src="blog-images/43874-mvp/6-Volunteer.png" >}}
-{{< images class="pop-up" src="blog-images/43874-mvp/7-Join.png" >}}
-{{< images class="pop-up" src="blog-images/43874-mvp/8-FAQ.png" >}}
-{{< images class="pop-up" src="blog-images/43874-mvp/9-Contact.png" >}}
+{{< light-box image-url1="blog-images/43874-mvp/1-Homepage.png" 
+image-url2="blog-images/43874-mvp/2-About us.png" image-url3="blog-images/43874-mvp/6-Volunteer.png" image-url4="blog-images/43874-mvp/4-Initiatives.png" >}}
 
 ## Outcome
 

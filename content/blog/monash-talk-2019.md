@@ -14,4 +14,4 @@ draft: true
 
 ---
 
-{{< linkedin link="https://www.linkedin.com/embed/feed/update/urn:li:share:6574840656898985984" >}}
+{{< linkedin link="https://linkedin.com/embed/feed/update/urn:li:share:6574840656898985984" >}}

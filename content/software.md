@@ -4,7 +4,7 @@ lastmod: 2018-05-24T02:10:00+06:00
 title: Software
 authors: ["sophia"]
 categories:
-  - Media
+  - Creative Media
 tags:
   - Software
 slug: /software

@@ -1,5 +1,5 @@
 ---
-title: Media
+title: Creative Media
 description: You make stuff?
 menu:   
   - main
