@@ -14,7 +14,7 @@ slug: Immersive-Technology-strategy-for-leading-Australian-utilities-company
 cover: 
     image: /images/blog-images/cover.png
     caption: 
-    style: full
+    style: half
 toc: true
 draft: true
 ---

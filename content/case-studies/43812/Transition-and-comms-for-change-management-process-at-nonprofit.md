@@ -15,7 +15,7 @@ slug: Transition-and-comms-for-change-management-process-at-nonprofit
 cover: 
     image: /images/blog-images/cover.png
     caption: 
-    style: full
+    style: half
 toc: true
 ---
 
