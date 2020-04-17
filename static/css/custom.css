@@ -145,3 +145,154 @@ img {
     border: 1.1px solid rgba(240, 145, 101, 0.719);
     border-radius: 5px;
 }
+
+instafeed > * > img {
+    margin-bottom: 5px;
+}
+
+.preview-container > .preview-three-images {
+    display: inline;
+    position: relative;
+}
+
+.preview-container > .preview-three-images > img {
+    width: 30%!important;
+}
+
+.content-lr-container {
+    width: 100%;
+    display: inline-flex;
+	padding-bottom: 2em;
+}
+
+.content-lr-container > .content-lr-left {
+    width: 55%;
+}
+
+.content-lr-container > .content-lr-right {
+    width: 45%;
+    display: block;
+}
+
+@media screen and (max-width: 1200px) {
+    .content-timeline-container,
+    .content-lr-container  {
+        font-size: .9em;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    .content-timeline-left, 
+    .content-timeline-right,
+    .content-lr-left, 
+    .content-lr-right
+    {
+        width: 50%;
+    }
+}
+
+@media screen and (max-width: 653px) {
+    .content-timeline-left,
+    .content-lr-left
+    {
+        width: 100%;
+    }
+
+    .content-timeline-right,
+    .content-lr-right
+    {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .content-timeline-container,
+    .content-lr-container  {
+        display: block;
+    }
+
+    .content-timeline-right,
+    .content-lr-right {
+        padding-top: 2em;
+        padding-bottom: 2em;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .content-timeline-right,
+    .content-lr-right {
+        padding: .3em !important;
+    }
+}
+
+.content-timeline-right,
+.content-lr-left {
+    padding-right: 2em;
+}
+
+.content-timeline-left > video,
+.content-timeline-right > video,
+.content-timeline-right > img
+    {
+    width: 100%;
+    object-fit: cover;
+}
+
+.content-lr-left a {
+    text-decoration: none;
+    border-bottom: none;
+}
+
+.content-lr-left a img:hover {
+    transform: scale(1.1);
+}
+
+.content-lr-left img {
+    width: 100%;
+    object-fit: cover;
+}
+
+.content-lr-container > * > h6 {
+    margin-bottom: 1.5em !important;
+}
+
+.content-right.livelink > a {
+    color: #3a4a79 !important;
+    text-decoration: underline;
+}
+
+.content-right.livelink >a:hover {
+    color: #5a4677;
+}
+
+.content-right.stack {
+    margin-top: 1em;
+}
+
+.content-right.stack > * { 
+    display: inline-block!important;
+}
+
+.content-right.stack.type > p {
+    color: #a3532d;
+}
+
+youtube.container, vimeo.container {
+    position: relative;
+    display: block;
+    padding-bottom: 56.25%;
+    padding-top: 30px; height: 0; overflow: hidden;
+}
+
+youtube.container iframe,
+youtube.container object,
+youtube.container embed,
+vimeo.container iframe,
+vimeo.container object,
+vimeo.container embed  {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}

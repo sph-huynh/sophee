@@ -1,0 +1,10 @@
+<github>
+    <div class="preview-container">
+        <div class="preview-three-images">
+            {{ range first 3 $.Site.Data.github.project }}
+            <img src="{{ .Site.BaseURL }}/images/{{ .image }}.jpg"/ >
+            {{ end }}
+        </div>
+    </div>
+<a href="/software" class="preview-see-more-link">See all software projects →</a>
+</github>

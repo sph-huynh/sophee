@@ -1,0 +1,12 @@
+<behance>
+    <div class="preview-container">
+        <div class="preview-three-images">
+            {{ range first 1 $.Site.Data.graphics.project }}
+            <img src="{{ .Site.BaseURL }}/images/graphics/{{ .image1 }}.jpg"/ >
+            <img src="{{ .Site.BaseURL }}/images/graphics/{{ .image2 }}.jpg"/ >
+            <img src="{{ .Site.BaseURL }}/images/graphics/{{ .image3 }}.jpg"/ >
+        </div>
+    {{ end }}
+    </div>
+    <a href="/graphic-design" class="preview-see-more-link">See all design →</a>
+</behance>

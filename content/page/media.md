@@ -6,13 +6,14 @@ menu:
   - sidebar
 weight: -200
 ---
-
-See my other creative work here:
-- [Videos](/videos)
-- Software
-- [Design](/graphic-design)
-
 ### Photography
+{{< preview-photo-content >}}
 
-{{< instagram >}}
+### Design
+{{< preview-design-content >}}
 
+### Software
+{{< preview-software-content >}}
+
+### Videos
+{{< preview-video-content >}}

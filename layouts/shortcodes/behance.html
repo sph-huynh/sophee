@@ -1,7 +1,7 @@
 <behance>
     {{ range $.Site.Data.graphics.project }}
-    <div class="content-github-container">
-            <div class="content-github-left">
+    <div class="content-lr-container">
+            <div class="content-lr-left">
                 <a href="{{.behancelink}}">
                     <img src="{{ .Site.BaseURL }}/images/graphics/{{ .image1 }}.jpg"/ >
                 </a>
@@ -12,10 +12,17 @@
                         <img src="{{ .Site.BaseURL }}/images/graphics/{{ .image3 }}.jpg"/ >
                 </a>
             </div>
-            <div class="content-github-right">
-                <div class="title"><b><a href="{{ .behancelink }}">{{.title}}</a></b></div>
-                <div class="desc">{{.desc}}</div>
-                <div class="stack"><div class="type">{{.type}}</div> | {{.project}}</div>
+            <div class="content-lr-right">
+                <h6><b><a href="{{ .behancelink }}">{{.title}}</a></b></h6>
+                <p>{{.desc}}</p>
+                <div class="content-right stack">
+                    <div class="content-right stack type">
+                        <p>{{.type}}</p>
+                    </div>
+                    <div class="content-right stack project">
+                        <p> | {{.project}}</p>
+                    </div>
+                </div>
             </div>
     </div>
     {{ end }}
