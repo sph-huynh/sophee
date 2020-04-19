@@ -30,3 +30,6 @@ A dysfunctional team was affecting a lot of teams in the organisation. As a resu
 * Provided space for affected individuals to still provide input in the changes, so that we would be taking the change journey together and not simply imposing change"
 
 ### Outcome
+- Team members affected by the change had a clear understanding of what was happening, with the opportunity to contribute their inputs as well
+- Follow up initiatives were launched immediately to back up the changes, but also show that the input sought was not temporary. But was part of a greater wave of changes (for the better)
+- Immediately I revised the team structure and current streams of work, and started a recruitment campaign to fill roles that would focus on improvements and streamlining of the projects

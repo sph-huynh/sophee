@@ -31,13 +31,12 @@ Focused on member engagement, reintroduced popular program - overnight trips - b
 		
 ### The story		
 ## Users & Audience		
-users & Audience		
-		
-## Scope & Constraints		
-scope & Constraints		
-		
-## Process & Approach		
-Process and Approach		
+Given our target audience was students we made our decisions on a number of factors:
+- Community was built through frequent engagement
+- Students were mostly there for socialising, not in depth photography deep dives
+- Many student members were international students, meaning for any of the bigger initiatives, we had to counter in the lack of transport options and limited budget 
 
-Restructured the organising committee to focus on long term planning, removing the existing casual volunteering structure, and implemented official positions that centre around activities and workshops, leading to greater attendance at events, and more frequent events.
+I restructured the organising committee to focus on long term planning, removing the existing casual volunteering structure, and implemented official positions that centre around activities and workshops, leading to greater attendance at events, and more frequent events.
+
 Restructured and rebranded the Photography services portfolio to provide a premium service, and successfully re- established the services’ standing on campus.
+
