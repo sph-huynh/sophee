@@ -10,7 +10,7 @@ tags:
 - People Management
 - Facilitation
 - Change Management
-slug: 43386/Led-nonprofit-pivot-in-order-to-capture-new-markets
+slug: Led-nonprofit-pivot-in-order-to-capture-new-markets
 cover:
     image: /images/blog-images/unihack-team.jpg
     caption: 

@@ -12,7 +12,7 @@ tags:
 - UX Analytics
 - Website Design
 - Design Sprints
-slug: 43874/mvp-ux-uplift-website
+slug: mvp-ux-uplift-website
 cover:
     image: 
     caption: 

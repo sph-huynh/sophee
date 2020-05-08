@@ -9,7 +9,7 @@ tags:
 - Branding
 - Change Management
 - Design Process
-slug: 43862/Creating-branding-guidelines-for-a-business-unit
+slug: Creating-branding-guidelines-for-a-business-unit
 cover:
     image: /images/blog-images/cover.png
     caption: 
