@@ -443,3 +443,7 @@ double-image > header-image.double {
     width: 48%;
     margin: 2px;
 }
+
+a.dark-link {
+    color: rgb(53, 53, 53)!important;
+}

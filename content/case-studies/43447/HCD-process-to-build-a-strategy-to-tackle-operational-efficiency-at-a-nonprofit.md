@@ -1,5 +1,5 @@
 ---
-date: 2019-08-13T00:00:00+11:00
+date: 2019-01-13T00:00:00+11:00
 lastmod: 2018-12-13T00:00:00+11:00
 title: HCD process to build a strategy to tackle operational efficiency at a nonprofit
 authors: ["sophia"]

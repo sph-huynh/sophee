@@ -10,8 +10,9 @@ tags:
   - Talks
   - Mentoring
 slug: 191001/monash-insight
-draft: true
 
 ---
+
+I am grateful to have been invited to speak at Monash for a second time about my university experience. The Inside Monash series is where alumni come speak to prospective students about their university experience. 
 
 {{< linkedin link="https://linkedin.com/embed/feed/update/urn:li:share:6574840656898985984" >}}

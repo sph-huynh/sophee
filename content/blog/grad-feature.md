@@ -10,4 +10,6 @@ tags:
 slug: 180501/gradaustralia
 ---
 
+I was interviewed as a featured graduate at Cognizant Australia. 
+
 {{< linkedin link="https://linkedin.com/embed/feed/update/urn:li:share:6437202319074557952" >}}
