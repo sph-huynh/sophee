@@ -47,7 +47,7 @@ hideEntryMeta = ["page"] # boolean / array of sections
 showReadingTime = true
 showLastmod = true
 taxonomyCloudShuffle = true
-accentColor = "#D58348"
+accentColor = "#A36437"
 hideMainMenu = false
 rtl = false
 
@@ -57,7 +57,7 @@ enable = true
 [params.widgets]
 header = ["breadcrumbs"]
 homepage = ["recent_posts"]
-sidebar = ["about", "social_menu", "search","taxonomy_cloud"]
+sidebar = ["about", "social_menu", "taxonomy_cloud"]
 footer = []
 
 [params.opengraph.facebook]
