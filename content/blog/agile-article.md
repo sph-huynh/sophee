@@ -9,7 +9,7 @@ tags:
   - Press
   - Agile
 cover:
-    image: graphics/workshop.jpg
+    image: /images/graphics/workshop.jpg
     style: half
 slug: 43958/Embracing-Agile-Methodologies
 ---

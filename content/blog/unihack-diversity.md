@@ -9,7 +9,7 @@ tags:
   - Press
   - Agile
 cover:
-    image: graphics/workshop.jpg
+    image: /images/blog-images/cover.png
     style: half
 slug: 43252/Talking-About-Diversity-Again
 ---
