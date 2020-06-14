@@ -1,0 +1,20 @@
+
+<!-- image -->
+<double-image>
+<header-image {{ with .Get "class1" }}class="{{.}}"{{ end }}>
+    {{ with .Get "link1"}}<a href="{{.}}">{{ end }}
+        <img src="{{ .Site.BaseURL }}/images/{{ .Get "src1" }}" {{ if or (.Get "alt1") (.Get "caption1") }}alt="{{ with .Get "alt1"}}{{.}}{{else}}{{ .Get "caption1" }}{{ end }}"{{ end }} />
+    {{ if .Get "link1"}}</a>{{ end }}
+    {{ if or (or (.Get "title1") (.Get "caption1")) (.Get "attr1")}}
+    {{ end }}
+</header-image>
+<header-image {{ with .Get "class2" }}class="{{.}}"{{ end }}>
+    {{ with .Get "link2"}}<a href="{{.}}">{{ end }}
+        <img src="{{ .Site.BaseURL }}/images/{{ .Get "src2" }}" {{ if or (.Get "alt2") (.Get "caption2") }}alt="{{ with .Get "alt2"}}{{.}}{{else}}{{ .Get "caption2" }}{{ end }}"{{ end }} />
+    {{ if .Get "link2"}}</a>{{ end }}
+    {{ if or (or (.Get "title2") (.Get "caption2")) (.Get "attr2")}}
+    {{ end }}
+</header-image>
+</double-image>
+
+<!-- image -->
