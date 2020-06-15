@@ -6,7 +6,6 @@ authors: ["sophia"]
 categories:
   - Press
 tags:
-  - Press
   - Feature
 cover:
     image: https://www.monash.edu/__data/assets/image/0011/962183/diversity-inclusion.png

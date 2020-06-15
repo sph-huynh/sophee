@@ -5,8 +5,6 @@ title: GradAustralia feature
 authors: ["sophia"]
 categories:
   - Press
-tags:
-  - Press
 slug: 180501/gradaustralia
 ---
 

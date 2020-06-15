@@ -8,7 +8,6 @@ categories:
 tags:
   - Diversity
   - Leadership
-  - Press
 slug: 43272/d-and-I-Awards-Interview
 cover: 
     image: https://78.media.tumblr.com/087b62db1ba858aa0e1f2387baa44b74/tumblr_inline_pangvxfTAg1qd2eq4_500.jpg

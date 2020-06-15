@@ -5,8 +5,6 @@ title: Tech for Good presentation
 authors: ["sophia"]
 categories:
   - Press
-tags:
-  - Press
 slug: 190901/tech-for-good
 ---
 

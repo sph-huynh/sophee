@@ -6,7 +6,6 @@ authors: ["sophia"]
 categories:
   - Talks
 tags:
-  - Press
   - Talks
   - Mentoring
 slug: 191001/monash-insight

@@ -6,7 +6,6 @@ authors: ["sophia"]
 categories:
   - Press
 tags:
-  - Press
   - Agile
 cover:
     image: /images/blog-images/cover.png
