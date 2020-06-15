@@ -7,7 +7,7 @@ menu:
 weight: -220
 ---
 
-I'm a Digital Strategy consultant who uses research and customer insights to guide clients on their Digital transformation journey.
+G'day. I'm a customer experience (CX) focused digital strategy & transformation consultant. I am an empathetic problem-solver, a technical designer and a business-minded people-person.
 
 See all my work below:
 
