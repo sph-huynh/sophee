@@ -106,7 +106,7 @@ username = ""
 repository = ""
 
 [params.search]
-client = "fuse" # algolia / fuse / lunr
+client = "" # algolia / fuse / lunr
 
 [params.search.algolia]
 appId = ""

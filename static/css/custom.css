@@ -142,7 +142,7 @@ img {
     padding: .25rem!important;
     margin-left: .25rem!important;
     margin-right: .25rem!important;
-    border: 1.1px solid #0C5057;
+    border: 1.1px solid #573015;
     border-radius: 5px;
 }
 
@@ -447,3 +447,9 @@ double-image > header-image.double {
 a.dark-link {
     color: rgb(53, 53, 53)!important;
 }
+
+a.dark-link:hover {
+    color:#379AA3!important;
+}
+
+
