@@ -204,8 +204,9 @@ Pipeline stage timeframe
 * ✓ Feedback stage dropped from 17 days to 2 days
 
 **Clarity in role marketing**
+
 Hire rate
-* ✓ From 2.5% to 27% - we were getting more candidates that had relevant experience, and therefrore a larger percentage of candidates were being moved forward
+* ✓ From 2.5% to 27% - we were getting more candidates that had relevant experience, and therefore a larger percentage of candidates were being moved forward
 
 View rate
 * ✓ Through the creation of a new careers/volunteering portal, increased traffic in our Recruitment website pages alone by 320%, in one month. And was able to drive more traffic in the refreshed portal in one week, than the old page had in 5 months.
