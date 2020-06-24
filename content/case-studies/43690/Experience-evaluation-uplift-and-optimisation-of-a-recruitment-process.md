@@ -28,7 +28,12 @@ The network is also ever growing, and also being predominately volunteers, we ha
 
 The challenge for this case study was focusing on volunteer recruitment, and to see what the experience is as a candidate and recruiter, and identify any potential for any uplift.
 
-The outcome was a more professional structure and process - both in terms of the recruiter knowing how to approach the tasks, and for the candidate going through the experience.	
+The outcome was a more professional structure and process - both in terms of the recruiter knowing how to approach the tasks, and for the candidate going through the experience.
+
+- Time reduction in the recruitment processm, going from 3-4 minutes/step to <30 seconds [98%+ reduction in time needed/step]
+- Time candidate spent in questionnaire stage timeframe dropped from 47.4 days to 6.9 days
+- Time candidate spent in Feedback stage dropped from 17 days to 2 days
+- Increased hire rate from 2.5% to 27%
 
 #### Target audience: 
 I had a brief understanding of the recruitment process from my own experiences joining the organisation (listed here) - but of course having not been through the process as a recruiter, I cannot assume too much.
