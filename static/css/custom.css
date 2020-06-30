@@ -452,4 +452,8 @@ a.dark-link:hover {
     color:#379AA3!important;
 }
 
+/* I don't condone hack solutions but... */
+.widget.widget-search.sep-after > * {
+    display: none!important;
+}
 
